@@ -1,2 +1,2 @@
 # littlespot
-This pagination code is used for getting that the our blog last page is showed fullfilled or unfullfilled with the articles of different categories previosuly selected from the our Data Base
+Aquí se subirá y mejorará el código fuente de Little Spot CMS Blog. A medida que se vaya implementando plugins para este gestor de contenidos para la creación de blogs, se irán publicando los cambios y propuestas de cambios respecto a la funcionalidad que se vaya proponiedo. 
